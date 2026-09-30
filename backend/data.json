@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "name": "Akash",
+        "message": "Welcome to the Flask API"
+    },
+    {
+        "id": 2,
+        "name": "Student",
+        "message": "Learning Flask and MongoDB"
+    }
+]
